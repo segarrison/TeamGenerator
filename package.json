@@ -1,0 +1,24 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "Command line application to create a team profile html page.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segarrison/TeamGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segarrison/TeamGenerator/issues"
+  },
+  "homepage": "https://github.com/segarrison/TeamGenerator#readme"
+}
