@@ -4,12 +4,14 @@
   "description": "Command line application to create a team profile html page.",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^8.2.0",
+    "inquirer": "^8.2.0"
+    
+  },
+  "devDependencies": {
     "jest": "^27.3.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
