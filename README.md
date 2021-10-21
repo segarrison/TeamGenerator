@@ -13,6 +13,7 @@ Command line application to create a team profile html page. Using the inquirer 
 - [Installation Information](#installation)
 - [Usage](#usage)
 - [Testing Instructions](#testing)
+- [Notes](#notes)
 - [Questions](#questions)
   <a name="installation"></a>
 
@@ -61,6 +62,12 @@ To run the test:
 ```
 npm run test
 ```
+
+<a name="notes"></a>
+
+## Notes
+
+The Rice University Full Stack instructional team provided some inital code for this project. This inital code is reflected in the commit history.
 
 <a name="questions"></a>
 
